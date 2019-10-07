@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "name": "world-bam-notifier",
+    "author": "teralove(managed by Tamaou)",
+    "description": "Notifies you when a world bam is close by through Whisper.",
+    "options": {
+        "niceName": "World Bam Notifier"
+    },
+    "servers": ["https://raw.githubusercontent.com/Tamaou/world-bam-notifier/master/"]
+}

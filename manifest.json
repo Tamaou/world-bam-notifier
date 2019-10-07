@@ -1,0 +1,12 @@
+{
+    "files": {
+        "README.md": "719f937b859359a0aec042348ac0a5dc2737d2bc659561eb6f81b8c64f444766",
+        "index.js": "7b567baec27e625d8b3a2dad72a2952d3dca831881736a4f0fe69fdcfac6890b",
+        "module.json": "d280d00fbacf6fe6c1a4447621bc6db925101c11de293955898eecf8fc1b69b9"
+    },
+    "defs": {
+        "S_CHAT": 3,
+        "S_DUNGEON_EVENT_MESSAGE": 2,
+        "S_SPAWN_NPC": 11
+    }
+}
